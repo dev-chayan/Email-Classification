@@ -1,0 +1,10 @@
+,Core Pharmacy,Claim Realm - Web Service,Splunk Alert: Claim Realm Service - Slowness Alert ,Actionable,combined,Flag
+0,Core Pharmacy,DrugPricing - Web Service,Splunk Alert: Drug Pricing Realm - HTTP 500 error ,Actionable,core pharmacy drugpricing web service splunk alert drug pricing realm error,Actionable
+1,Core Pharmacy,DrugPricing - Web Service,Splunk Alert: Drug Pricing Realm responsestatus != 200_Sunday,Actionable,core pharmacy drugpricing web service splunk alert drug pricing realm responsestatus sunday,Actionable
+2,Core Pharmacy,PharmRDS-NRT Alert,Warning-Issues with NRT process,Actionable,core pharmacy pharmrd nrt alert warning issue nrt process,Actionable
+3,Core Pharmacy,PharmRDS-IIB Alert,Warning-Issues with IIB process,Actionable,core pharmacy pharmrd iib alert warning issue iib process,Actionable
+4,Core Pharmacy,NRM Application - Job Alert,Splunk Alert: NRM Job ALERT,Actionable,core pharmacy nrm application job alert splunk alert nrm job alert,Actionable
+5,Core Pharmacy,All batch job abends,Incident - Ticket Number -ESP ABEND CILAPPXP0143/JobName,Actionable,core pharmacy batch job abend incident ticket number esp abend cilappxp jobname,Actionable
+6,Home Delivery Team,xRx Application,FATAL- SYSTEM_UNAVAILABLE,Actionable,home delivery team xrx application fatal system unavailable,Actionable
+7,Home Delivery Team,MailRx,ALERT- Number of Forks,Actionable,home delivery team mailrx alert number fork,Actionable
+8,Home Delivery Team,xRx Application,Global App Support : ignio Alert -SSG - xRx - Health Check Failed,Actionable,home delivery team xrx application global app support ignio alert ssg xrx health check fail,Actionable
